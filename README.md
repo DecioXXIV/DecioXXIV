@@ -2,10 +2,15 @@
 
 👀 I'm striving to become an AI and Machine Learning Engineer, with specialization in Data Science and Explainability for AI and ML systems.
 
-🌱 I’m currently learning:
+👨‍💻 In this repository you will find:
+  - A project related to the Object Oriented Programming course, attended in 2020-2021.
+  - Some projects related to the Web-Based Information Systems course, attended in 2021-2022.
+  - Projects related to the Explainable AI, addressed from 2022. 
+
+Achievements:
+  - 🎓 Fall 2022, BSc in Computer Science and Engineering. Thesis: "Explainable AI for Semantic Data Type Systems".
+
+Currently Learning:
   - Theoretical Computer Science 
   - Artificial Intelligence 
   - Infrastructure of Computer Networks
-
-Achievements:
-- 🎓 Fall 2022, BSc in Computer Science and Engineering. Thesis: "Explainable AI for Semantic Data Type Systems".

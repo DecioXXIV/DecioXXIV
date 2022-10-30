@@ -8,4 +8,4 @@
   - Infrastructure of Computer Networks
 
 Achievements:
-- 🎓 Fall 2022: BSc in Computer Science and Engineering. Thesis: "Explainable AI for Semantic Data Type Systems".
+- 🎓 Fall 2022, BSc in Computer Science and Engineering. Thesis: "Explainable AI for Semantic Data Type Systems".

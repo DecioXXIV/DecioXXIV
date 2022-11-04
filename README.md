@@ -3,9 +3,7 @@
 👀 I'm striving to become an AI and Machine Learning Engineer, with specialization in Data Science and Explainability for AI and ML systems.
 
 👨‍💻 In this repository you will find:
-  - A project related to the Object Oriented Programming course, attended in 2020-2021.
   - Some projects related to the Web-Based Information Systems course, attended in 2021-2022.
-  - A collection of solved Networking Exercises, related to the Infrastructure of Computer Network course, attended in 2022-2023.
   - Projects related to the Explainable AI, addressed from 2022. 
 
 Achievements:

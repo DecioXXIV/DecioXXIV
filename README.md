@@ -13,3 +13,5 @@ Currently Learning:
   - Theoretical Computer Science 
   - Artificial Intelligence 
   - Infrastructure of Computer Networks
+  
+  https://api.githubtrends.io/user/svg/DecioXXIV/langs?time_range=one_year&compact=True&theme=classic

@@ -14,4 +14,4 @@ Currently Learning:
   - Artificial Intelligence 
   - Infrastructure of Computer Networks
   
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DecioXXIV/langs)](https://githubtrends.io)
+[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DecioXXIV/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/DecioXXIV/langs?time_range=one_year&use_percent=True&theme=classic)

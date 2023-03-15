@@ -16,4 +16,4 @@ Currently Learning:
   - Machine Learning
   - Databases II 
   - Fundamentals of Statistics
-  - Data Rights
+  - Data Law

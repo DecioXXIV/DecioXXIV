@@ -7,7 +7,7 @@
   - Projects related to the Explainable AI, addressed from 2022.
   - Exercises & Experiments on well-known Artificial Intelligence Algorithms, related to the Artificial Intelligence course, attended in 2022-23.
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecioXXIV&layout=compact&hide=jupyter%20notebook)](https://github.com/DecioXXIV/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecioXXIV&layout=compact&hide=jupyter%20notebook)
 
 Achievements:
   - 🎓 Fall 2022, BSc in Computer Science and Engineering. Thesis: "Explainable AI for Semantic Data Type Systems".

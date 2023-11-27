@@ -2,7 +2,7 @@
 
 👀 I'm striving to become an AI and Machine Learning Engineer, with specialization in Data Science and Explainability for AI and ML systems.
 
-👨‍💻 In this repository you will find:
+👨‍💻 Here you will find:
 | Repository | Description | Course | Year | Programming Languages | Technologies |
 | ---------- | ----------- | ------ | ---- | --------------------- | ------------ |
 | [ML-Zenshin](https://github.com/DecioXXIV/ML-Zenshin) | A Machine Learning system which aims to predict how many Goals will be scored by a Soccer Player during a full season | *Machine Learning* | 2022/23 | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/></p> | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikitlearn" width="100"/></p> |

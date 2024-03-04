@@ -18,6 +18,5 @@ Achievements:
   - 🎓 Fall 2022, BSc in Computer Science and Engineering. Thesis: "Explainable AI for Semantic Data Type Systems".
 
 Currently Learning:
-  - Deep Learning
-  - Data Engineering 
-  - Algorithms for Big Data
+  - Big Data
+  - Advances Topics in Computer Science

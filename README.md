@@ -1,12 +1,11 @@
 # 👋 Hi, I’m @DecioXXIV 🐉
 
-🌱 I'm a MSc Computer Science and Engineering student at "Università degli Studi Roma Tre", striving to learn more and master my competencies within the fields of Machine Learning and Data Science.
+🌱 I'm a PhD Computer Science and Automation at _Università degli Studi Roma Tre_, striving to learn more and master my competencies within the fields of Machine Learning, Data Science.
 
-📚 I'm currently attending the following courses:
-  - Big Data
-  - Advanced Topics in Computer Science
+📚 I'm currently working on _Explainable Artificial Intelligence for Data-Centric AI_, with the aim of making the results provided by Learning-based systems more interpretable and reliable.
 
 ## 👨‍💻 Principal Repositories:
+Here you can find some nice Projects I have worked on:
 
 | Repository | Description | Languages | Technologies |
 | ---------- | ----------- | --------------------- | ------------ |
@@ -19,6 +18,3 @@
 <div align="center" dir="auto">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecioXXIV&layout=compact&hide=jupyter%20notebook" />
 </div>
-  
-## 🎓 Achievements:
-  -  Fall 2022, BSc in Computer Science and Engineering. Thesis: *Explainable AI for Semantic Data Type Systems*.
